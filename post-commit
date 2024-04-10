@@ -1,0 +1,6 @@
+#!/bin/sh
+
+echo Thanks for commiting $GIT_AUTHOR_NAME
+
+
+exit 0
